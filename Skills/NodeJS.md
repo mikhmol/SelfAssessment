@@ -4,29 +4,29 @@
   - Strong and weak sides of node.js
   - Stateful and stateless servers
   - Nonblocking I/O and slocking code
-  - Event loop: phases
-  - Event loop: microtasks and macrotasks
-  - Garbage collection
+  - Event loop: phases:👂 heard
+  - Event loop: microtasks and macrotasks:👂 heard
+  - Garbage collection:👂 heard
   - Node.js LTS schedule
   - I/O-bound, CPU-bound, memory-bound tasks
   - Interactive applications (close to real-time)
 - Modularity, layers and dependencies
   - CommonJS modules
   - ECMAScript modules
-  - node:module
+  - node:module:👂 heard
   - Caching in CJS and ESM
   - Modules as singletons
   - Contexts and scripts node:vm
-  - Dependencies: npm, node_modules
-  - Dependencies: package.json and package lock
+  - Dependencies: npm, node_modules: 🖐️ used
+  - Dependencies: package.json and package lock: 🖐️ used
   - Module-based permissions model
   - Isolation with modularity
-  - Dependency injection
+  - Dependency injection: 🖐️ used
   - DI containers
   - Coupling and cohesion
   - Framework agnostic approach
 - Environment
-  - Command line arguments
+  - Command line arguments: 🖐️ used
   - Node.js CLI
   - Process-based permissions
   - Graceful shutdown
@@ -38,9 +38,9 @@
   - Crypto API
   - Password hashing with node:crypto.scrypt
   - Web Crypto API
-  - File system API: sync and async
+  - File system API: sync and async: 🖐️ used
   - Copy folder recursively
-  - Worker threads
+  - Worker threads:👂 heard
   - Performance hooks
   - Native fetch and nodejs/undici
   - node:async_hooks
@@ -55,20 +55,20 @@
   - MessageChannel, MessagePort
   - BroadcastChannel
   - Generating crypto random UUID
-  - node:url vs new URL
-  - node:assert
+  - node:url vs new URL:👂 heard
+  - node:assert:👂 heard
   - Internationalization
-  - Blob, File, Buffer, node:buffer
+  - Blob, File, Buffer, node:buffer:👂 heard
   - Module node:zlib
 - Application structure and architecture
   - Isolation between layer
   - Multilayer approach
   - Separation of concerns
-  - Inversion of control
+  - Inversion of control:👂 heard
   - Dependency injection
-  - GRASP
-  - SOLID
-  - GoF patterns
+  - GRASP:👂 heard
+  - SOLID:👂 heard
+  - GoF patterns:👂 heard
   - Distributed systems
   - Highload applications
   - Clean architecture
@@ -90,7 +90,7 @@
   - TCP/SSL
   - UDP
   - TLS
-  - Websocket
+  - Websocket:👂 heard
   - SSE
   - HTTP/3 (QUIC)
   - Long polling
@@ -118,11 +118,11 @@
   - Application configuring
   - Testing
   - CI/CD
-  - Readable
-  - Writable
+  - Readable:👂 heard
+  - Writable:👂 heard
   - Transform
   - back pressure
-  - Buffer
+  - Buffer:👂 heard
   - Console
   - Inspector
   - Reliability
@@ -139,7 +139,7 @@
   - Error
   - error.cause
   - error.code
-  - error.message
+  - error.message: 🖐️ used
   - error.stack
   - How to avoid mixins
   - Error.captureStackTrace
