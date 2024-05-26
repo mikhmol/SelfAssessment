@@ -1,13 +1,13 @@
 ## Software engineering self assessment
 
-[![Skills](https://img.shields.io/badge/Self_Assessment-293&nbsp;/&nbsp;601&nbsp;/&nbsp;731-009933?style=flat-square)](https://github.com/mikhmol/SelfAssessment/blob/main/Profile/REPORT.md)
+[![Skills](https://img.shields.io/badge/Self_Assessment-326&nbsp;/&nbsp;601&nbsp;/&nbsp;731-009933?style=flat-square)](https://github.com/mikhmol/SelfAssessment/blob/main/Profile/REPORT.md)
 
 ```
-[![Skills](https://img.shields.io/badge/Self_Assessment-293&nbsp;/&nbsp;601&nbsp;/&nbsp;731-009933?style=flat-square)](https://github.com/mikhmol/SelfAssessment/blob/main/Profile/REPORT.md)
+[![Skills](https://img.shields.io/badge/Self_Assessment-326&nbsp;/&nbsp;601&nbsp;/&nbsp;731-009933?style=flat-square)](https://github.com/mikhmol/SelfAssessment/blob/main/Profile/REPORT.md)
 ```
 
 ```
-<a href="https://github.com/mikhmol/SelfAssessment/blob/main/Profile/REPORT.md"><img alt="Skills" src="https://img.shields.io/badge/Self_Assessment-293&nbsp;/&nbsp;601&nbsp;/&nbsp;731-009933?style=flat-square"></a>
+<a href="https://github.com/mikhmol/SelfAssessment/blob/main/Profile/REPORT.md"><img alt="Skills" src="https://img.shields.io/badge/Self_Assessment-326&nbsp;/&nbsp;601&nbsp;/&nbsp;731-009933?style=flat-square"></a>
 ```
 
 ## Assessment totals
@@ -15,19 +15,19 @@
 | Unit | Marked | Of |
 | ---- | ------ | -- |
 | [Programming](/Skills/Programming.md) | | |
-| &nbsp;&nbsp;&nbsp;&nbsp; Concepts | `16` | `30` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Concepts | `25` | `30` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Syntax and concepts | `28` | `33` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Types | `2` | `14` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Functions | `17` | `23` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Data structures | `20` | `26` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Networking | `6` | `9` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Process and tools | `12` | `28` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Antipatterns | `10` | `30` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Process and tools | `20` | `28` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Antipatterns | `18` | `30` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Runtimes and virtual machines | `1` | `5` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Operating systems | `8` | `13` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Standards | `4` | `15` |
 | [JavaScript](/Skills/JavaScript.md) | | |
-| &nbsp;&nbsp;&nbsp;&nbsp; Language | `38` | `57` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Language | `40` | `57` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Statements | `17` | `19` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Functions | `9` | `10` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Data structures | `7` | `8` |
@@ -51,11 +51,11 @@
 | &nbsp;&nbsp;&nbsp;&nbsp; Error handling and debugging | `1` | `14` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Integrations and bindings | `0` | `16` |
 | [Paradigms](/Skills/Paradigms.md) | | |
-| &nbsp;&nbsp;&nbsp;&nbsp; Theory | `12` | `25` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Theory | `13` | `25` |
 | &nbsp;&nbsp;&nbsp;&nbsp; OOP basics | `18` | `21` |
 | &nbsp;&nbsp;&nbsp;&nbsp; GRASP | `0` | `8` |
 | &nbsp;&nbsp;&nbsp;&nbsp; SOLID | `0` | `5` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Patterns | `1` | `25` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Patterns | `6` | `25` |
 | [Architecture](/Skills/Architecture.md) | | |
 | &nbsp;&nbsp;&nbsp;&nbsp; Application structure | `0` | `22` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Application architecture | `0` | `36` |
@@ -68,8 +68,6 @@
 | To start asynchronous programming | actual | ⟶  | required |
 | --- | --- | --- | --- |
 | Destructuring | 🤷 unknown | ⟶  | 🖐️ used |
-| Async generator | 🤷 unknown | ⟶  | 👂 heard |
-| Async iterator | 🤷 unknown | ⟶  | 👂 heard |
 | Optional chaining | 🤷 unknown | ⟶  | 👂 heard |
 | IIFE | 🤷 unknown | ⟶  | 👂 heard |
 | Async IIFE | 🤷 unknown | ⟶  | 👂 heard |
@@ -84,7 +82,7 @@
 | `FinalizationRegistry` | 🤷 unknown | ⟶  | 👂 heard |
 | Timers | 👂 heard | ⟶  | 🖐️ used |
 
-Total: you have `56` of `72` skills, `16` to be upgraded, and `26` above needed
+Total: you have `58` of `72` skills, `14` to be upgraded, and `26` above needed
 
 | To start Node.js | actual | ⟶  | required |
 | --- | --- | --- | --- |
@@ -93,8 +91,8 @@ Total: you have `56` of `72` skills, `16` to be upgraded, and `26` above needed
 | Destructuring | 🤷 unknown | ⟶  | 🖐️ used |
 | Generators | 👂 heard | ⟶  | 🖐️ used |
 | Iterators | 👂 heard | ⟶  | 🖐️ used |
-| Async generator | 🤷 unknown | ⟶  | 🖐️ used |
-| Async iterator | 🤷 unknown | ⟶  | 🖐️ used |
+| Async generator | 👂 heard | ⟶  | 🖐️ used |
+| Async iterator | 👂 heard | ⟶  | 🖐️ used |
 | Chaining | 👂 heard | ⟶  | 🖐️ used |
 | IIFE | 🤷 unknown | ⟶  | 🖐️ used |
 | Async IIFE | 🤷 unknown | ⟶  | 🖐️ used |

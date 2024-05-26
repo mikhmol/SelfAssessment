@@ -20,8 +20,8 @@
   - Destructuring
   - Generators: 👂 heard
   - Iterators: 👂 heard
-  - Async generator h
-  - Async iterator h
+  - Async generator: 👂 heard
+  - Async iterator: 👂 heard
   - Chaining: 👂 heard
   - Optional chaining
   - IIFE

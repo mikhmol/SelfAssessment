@@ -9,7 +9,7 @@
   - Prototype-based programming: 🖐️ used
   - Object-oriented programming: 🖐️ used
   - Object-based programming: 🖐️ used
-  - Generic programming h
+  - Generic programming: 👂 heard
   - Concurrent computing
   - Asynchronous programming: 👂 heard
   - Parallel programming: 👂 heard
@@ -65,22 +65,22 @@
   - Dependency inversion principle (DIP)
 - Patterns
   - Singleton: 🖐️ used
-  - Factory Method h
+  - Factory Method: 👂 heard
   - Abstract Factory
   - Adapter
-  - Observer h
+  - Observer: 👂 heard
   - Strategy
   - Facade:h
   - Proxy
   - Chain of Responsibility
   - Command
-  - Iterator h
+  - Iterator: 👂 heard
   - State
   - Bridge
   - Builder
-  - Prototype h
+  - Prototype: 👂 heard
   - Composite
-  - Decorator h
+  - Decorator: 👂 heard
   - Flyweight
   - Mediator
   - Memento

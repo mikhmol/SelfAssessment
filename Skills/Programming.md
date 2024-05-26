@@ -1,9 +1,9 @@
 ## Programming fundamental concepts
 
 - Concepts
-  - Model k
-  - Modeling k
-  - Subject domain k
+  - Model: 🎓 known
+  - Modeling: 🎓 known
+  - Subject domain: 🎓 known
   - Algorithm: 🎓 known
   - Syntax: 🎓 known
   - Semantics: 🎓 known
@@ -12,17 +12,17 @@
   - Programm: 🎓 known
   - Programming paradigm: 🎓 known
   - Programming language: 🎓 known
-  - Contract k
+  - Contract: 🎓 known
   - Module: 🎓 known
   - Library: 🎓 known
-  - Package k
-  - Component k
-  - Framework k
-  - Platform k
-  - Source code k
+  - Package: 🎓 known
+  - Component: 🎓 known
+  - Framework: 🎓 known
+  - Platform: 🎓 known
+  - Source code: 🎓 known
   - Object code
   - Machine code: 🎓 known
-  - Microcode 
+  - Microcode
   - Software engineering: 🎓 known
   - Decomposition: 🖐️ used
   - Control flow
@@ -150,16 +150,16 @@
   - Polyfill
   - Interpreter
   - Linker
-  - Dynamic linking k
-  - Static linking k
+  - Dynamic linking: 🎓 known
+  - Static linking: 🎓 known
   - Runtime: 🖐️ used
   - Virtual machine: 🖐️ used
   - Register-based VM
   - Stack-based VM
-  - Containerization k
+  - Containerization: 🎓 known
   - Debugger: 🖐️ used
-  - Tracing h
-  - Garbage collection k
+  - Tracing: 👂 heard
+  - Garbage collection: 🎓 known
   - Refactoring: 🙋 explained
   - Code review: 🙋 explained
   - Exception: 🖐️ used
@@ -167,13 +167,13 @@
   - git: 🖐️ used
   - Github: 🖐️ used
   - Docker: 🖐️ used
-  - Kubernetes h
-  - GCC h
-  - LLVM h
+  - Kubernetes: 👂 heard
+  - GCC: 👂 heard
+  - LLVM: 👂 heard
 - Antipatterns
   - Magic numbers: 🙋 explained
   - Hard code: 🙋 explained
-  - Soft code k
+  - Soft code: 🎓 known
   - Cryptic code
   - Improbability factor
   - Accidental complexity: 🙋 explained
@@ -185,16 +185,16 @@
   - Unreachable code: 🙋 explained
   - Duplicate code: 🙋 explained
   - Premature optimization
-  - Micro-optimization k
-  - Nested loops k
-  - Long method/function/procedure k
+  - Micro-optimization: 🎓 known
+  - Nested loops: 🎓 known
+  - Long method/function/procedure: 🎓 known
   - Long inheritance
-  - Large class/file k
-  - Too many parameters k
-  - Pass-through parameters k
+  - Large class/file: 🎓 known
+  - Too many parameters: 🎓 known
+  - Pass-through parameters: 🎓 known
   - Accumulate and fire
   - Use switch/case: 🖐️ used
-  - Temporary field k
+  - Temporary field: 🎓 known
   - Handle object as instances and hashes at the same time
   - Use fields instead of arguments
   - Data clump
