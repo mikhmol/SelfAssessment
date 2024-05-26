@@ -1,106 +1,239 @@
 ## Programming fundamental concepts
 
+- Concepts
+  - Model
+  - Modeling
+  - Subject domain
+  - Algorithm k
+  - Syntax k
+  - Semantics k
+  - Abstraction k
+  - Paradigm k
+  - Programm k
+  - Programming paradigm k
+  - Programming language k
+  - Contract
+  - Module k
+  - Library k
+  - Package
+  - Component
+  - Framework
+  - Platform
+  - Source code
+  - Object code
+  - Machine code k
+  - Microcode
+  - Software engineering k
+  - Decomposition u
+  - Control flow
+  - Data flow u
+  - Code reuse u
+  - Defensive programming
+  - Don't repeat yourself (DRY) u
+  - KISS principle
 - Syntax and concepts
-  - value: 🖐️ used
-  - identifier: 🖐️ used
-  - variable: 🖐️ used
-  - constant: 🖐️ used
-  - scalar: 🖐️ used
-  - literal: 🖐️ used
-  - expression: 🖐️ used
-  - heap: 🙋 explained
-  - function: 🖐️ used
-  - procedure: 🖐️ used
-  - method: 🖐️ used
-  - class: 🖐️ used
-  - prototype: 🎓 known
-  - event: 🖐️ used
-  - type: 🖐️ used
-  - primitive types: 🖐️ used
-  - reference types: 🖐️ used
-  - flag: 🖐️ used
-  - lexical scope: 🖐️ used
-  - code block: 🖐️ used
-  - conditions: 🙋 explained
-  - loops: 🙋 explained
-  - assignment: 🙋 explained
-  - regular expression: 🖐️ used
-  - interface: 🖐️ used
-  - contract: 🖐️ used
-  - module: 🖐️ used
-  - call stack
+  - Value u
+  - Identifier u
+  - Variable u
+  - Constant u
+  - Scalar u
+  - Literal u
+  - Expression u
+  - Heap e
+  - Function u
+  - Procedure u
+  - Method u
+  - Class u
+  - Prototype k
+  - Event u
+  - Type u
+  - Flag u
+  - Lexical scope u
+  - Code block u
+  - Conditions u
+  - Loops e
+  - Assignment e
+  - Regular expression u
+  - Interface u
+  - Namespaces
+  - Call stack
+  - Naming conventions u
+  - Coding conventions u
+  - Camel case u
+  - Snake case u
+  - Kebab case
+  - Trailing commas
+  - Return early u
+  - Fail-fast
+- Types
+  - Primitive types u
+  - Reference types u
+  - Type systems
+  - Strong typing
+  - Weak typing
+  - Duck typing
+  - Static typing
+  - Dynamic typing
+  - Nominal typing
+  - Structural typing
+  - Explicit typing
+  - Type inference
+  - Covariance
+  - Contravariance
 - Functions
-  - signature: 🖐️ used
-  - argument: 🖐️ used
-  - parameter: 🖐️ used
-  - pure function
-  - lambda expression: 🖐️ used
-  - side effects: 🖐️ used
-  - closure: 🖐️ used
-  - partial application
-  - curry: 🖐️ used
-  - higher order: 🖐️ used
-  - recursion: 🖐️ used
-  - callback: 🖐️ used
-  - listener: 🖐️ used
-  - compose:👂 heard
-  - pipe:👂 heard
-  - memoize:👂 heard
-  - wrapper:👂 heard
-  - functor:👂 heard
-  - monad:👂 heard
-  - monoid
-  - generator:👂 heard
-  - coroutine
+  - Signature u
+  - Argument u
+  - Parameter u
+  - Pure function
+  - Lambda expression u
+  - Side effects u
+  - Closure u
+  - Partial application
+  - Currying u
+  - Higher order u
+  - Recursion u
+  - Tail call optimisation
+  - Callback u
+  - Listener u
+  - Composition h
+  - Pipe h
+  - Memoize h
+  - Wrapper h
+  - Functor
+  - Monad h
+  - Monoid
+  - Generator h
+  - Coroutine
 - Data structures
-  - array: 🖐️ used
-  - structure: 🖐️ used
-  - record
-  - enum: 🖐️ used
-  - instance: 🖐️ used
-  - object: 🖐️ used
-  - class: 🖐️ used
-  - collection: 🖐️ used
-  - set: 🖐️ used
-  - hash table: 🙋 explained
-  - linked list: 🙋 explained
-  - doubly list: 🙋 explained
-  - unrolled list
-  - circular list
-  - queue
-  - stack: 🖐️ used
-  - deque
-  - tree: 🖐️ used
-  - graph
-  - iterator: 🖐️ used
-  - mutable state: 🖐️ used
-  - immutable state: 🖐️ used
-  - serialization:👂 heard
-  - string parsing: 🖐️ used
-- Process & style
-  - compiler:👂 heard
-  - transpiler
-  - linter: 🖐️ used
-  - polyfill
-  - debugger: 🖐️ used
-  - garbage collection
-  - refactoring: 🙋 explained
-  - code review: 🙋 explained
-  - antipatterns: 🙋 explained
-  - paradigm: 🙋 explained
-  - algorithm: 🙋 explained
-  - magic numbers: 🙋 explained
-  - hardcode: 🙋 explained
-  - complexity: 🙋 explained
-  - decomposition: 🙋 explained
-  - spaghetti: 🙋 explained
-  - silver bullet: 🙋 explained
-  - not invented here: 🙋 explained
-  - dead code: 🙋 explained
-  - unreachable code: 🙋 explained
-  - duplicate code: 🙋 explained
-  - exception: 🖐️ used
-  - return early: 🖐️ used
-  - unittest: 🖐️ used
-  - git: 🖐️ used
-  - github: 🖐️ used
+  - Array u
+  - Structure u
+  - Record
+  - Enum u
+  - Instance u
+  - Object u
+  - Collection u
+  - Set u
+  - Hash table e
+  - Linked list e
+  - Doubly list e
+  - Unrolled list
+  - Circular list
+  - Queue u
+  - Stack u
+  - Deque
+  - Tree u
+  - Graph
+  - Iterator u
+  - Mutable state u
+  - Immutable state u
+  - Serialization u
+  - String parsing u
+  - JSON u
+  - JSON5
+  - YAML u
+- Networking
+  - DNS u
+  - CDN u
+  - CORS
+  - IPv4 u
+  - IPv6 u
+  - NAT u
+  - URL u
+  - URN
+  - URI
+- Process and tools
+  - Compiler h 
+  - Just-in-time compilation
+  - Ahead-of-time compilation
+  - Transpiler
+  - Linter u
+  - Polyfill
+  - Interpreter
+  - Linker
+  - Dynamic linking
+  - Static linking
+  - Runtime u
+  - Virtual machine u
+  - Register-based VM
+  - Stack-based VM
+  - Containerization
+  - Debugger u
+  - Tracing
+  - Garbage collection
+  - Refactoring e
+  - Code review e
+  - Exception u
+  - Unittesting u
+  - git u
+  - Github u
+  - Docker u
+  - Kubernetes
+  - GCC
+  - LLVM
+- Antipatterns
+  - Magic numbers e
+  - Hard code e
+  - Soft code
+  - Cryptic code
+  - Improbability factor
+  - Accidental complexity e
+  - Action at a distance
+  - Spaghetti e
+  - Silver bullet e
+  - Not invented here e
+  - Dead code e
+  - Unreachable code e
+  - Duplicate code e
+  - Premature optimization
+  - Micro-optimization
+  - Nested loops
+  - Long method/function/procedure
+  - Long inheritance
+  - Large class/file
+  - Too many parameters
+  - Pass-through parameters
+  - Accumulate and fire
+  - Use switch/case u
+  - Temporary field
+  - Handle object as instances and hashes at the same time
+  - Use fields instead of arguments
+  - Data clump
+  - Feature envy
+  - Monkey patch
+  - Yo-yo problem
+- Runtimes and virtual machines
+  - Bytecode
+  - V8 u
+  - VJM
+  - CLR
+  - Mono
+- Operating systems
+  - Interrupts
+  - Drivers u
+  - Kernel
+  - Ring
+  - Virtual memory u
+  - File system u
+  - Linux u
+  - Unix u
+  - BSD
+  - MacOS u
+  - Windows u
+  - Real-time OS
+  - Embedded OS u
+- Standards
+  - ASCII u
+  - Escape sequence
+  - RFC
+  - IETF
+  - IANA
+  - IEEE
+  - Base64 u
+  - ECMA u
+  - ICANN
+  - ISO
+  - MIME
+  - OWASP
+  - UTF-8 u
+  - W3C
+  - ODMG

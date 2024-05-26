@@ -1,89 +1,122 @@
-## Programming fundamental concepts
+## JavaScript
 
 - Language
-  - Object: 🖐️ used
-  - this: 🖐️ used
-  - arrow function: 🖐️ used
-  - async function: 🖐️ used
-  - call:👂 heard
-  - bind:👂 heard
-  - apply:👂 heard
-  - instanceof: 🖐️ used
-  - ...spread: 🖐️ used
-  - ...rest: 🖐️ used
-  - typeof: 🖐️ used
-  - destructuring
-  - generator:👂 heard
-  - iterator:👂 heard
-  - async generator
-  - async iterator
-  - chaining:👂 heard
-  - optional chaining
+  - `Object` u
+  - `Function` u
+  - `Boolean` u
+  - `Number` u
+  - `BigInt` h
+  - `String` u
+  - `Symbol` k
+  - `Infinity` u
+  - `NaN` u
+  - `undefined` u
+  - `null` u
+  - `this` u
+  - `instanceof` u
+  - `...spread` u
+  - `...rest` u
+  - `typeof` u
+  - Destructuring
+  - Generators h
+  - Iterators h
+  - Async generator
+  - Async iterator
+  - Chaining h
+  - Optional chaining
   - IIFE
-  - global: 🖐️ used
-  - globalThis
-  - window
-  - getters and setters: 🖐️ used
-  - __proto__:👂 heard
-  - prototype:👂 heard
-  - equality operators: 🙋 explained
-  - logical operators: 🙋 explained
-  - bitwise operators: 🙋 explained
-  - ternary operator: 🙋 explained
-  - void
-  - yield:👂 heard
-  - await: 🖐️ used
-  - template literal
-  - strict mode: 🖐️ used
-  - delete
-  - in
-  - super: 🙋 explained
-  - Symbol: 🎓 known
-  - Reflect
+  - Async IIFE
+  - `global` u
+  - `globalThis`
+  - `window`
+  - Getters and setters u
+  - `__proto__` h
+  - `prototype` h
+  - Equality operators e
+  - Logical operators e
+  - Logical Assignment 
+  - Bitwise operators e
+  - Ternary operator e
+  - `void`
+  - `yield` h
+  - `await` u
+  - Template literal
+  - Strict mode u
+  - Hoisting
+  - `delete`
+  - `in`
+  - `super` e
+  - `eval`
+  - `static` u
+  - `Number.parseInt` u
+  - `Number.parseFloat` u
+  - Property descriptors
+  - Sealing properties
+  - Freezing properties
+  - Computed properties
+  - Instance class fields u
+  - Static class fields u
+  - Private class fields u
+  - Private class methods u
 - Statements
-  - if: 🙋 explained
-  - while: 🙋 explained
-  - do..while: 🙋 explained
-  - for: 🙋 explained
-  - for..in: 🙋 explained
-  - for..of: 🙋 explained
-  - for await: 🖐️ used
-  - throw: 🖐️ used
-  - break: 🖐️ used
-  - continue: 🖐️ used
-  - import: 🖐️ used
-  - export: 🖐️ used
-  - label
-  - try..catch: 🖐️ used
-  - switch: 🖐️ used
-  - class: 🙋 explained
-  - new Error: 🖐️ used
-  - with
+  - `if` e
+  - `while` e
+  - `do..while` e
+  - `for` e
+  - `for..in` e
+  - `for..of` e
+  - `for await` u
+  - `throw` u
+  - `break` u
+  - `continue` u
+  - `import` u
+  - `export` u
+  - `label`
+  - `try..catch` u
+  - `switch` u
+  - `class` e
+  - `extends` h
+  - `with`
+  - `new` u
 - Functions
-  - function declaration: 🖐️ used
-  - function expression: 🖐️ used
-  - return: 🖐️ used
-  - default parameters: 🖐️ used
-  - functional object
+  - Arrow function u
+  - Async function u
+  - Function declaration u
+  - Function expression u
+  - Default parameters u
+  - Functional object
+  - `Function.prototype.call` h
+  - `Function.prototype.bind` h
+  - `Function.prototype.apply` h
+  - `return` u
 - Data structures
-  - Array: 🖐️ used
-  - mixin: 🎓 known
-  - extend: 🖐️ used
-  - typed arrays
-  - Map: 🖐️ used
-  - Set: 🖐️ used
-  - undefined: 🖐️ used
-  - null: 🖐️ used
-  - Proxy:👂 heard
-  - weak collections:👂 heard
-  - timers:👂 heard
-  - EventEmitter: 🎓 known
-  - RegExp: 🖐️ used
-  - Date: 🖐️ used
-  - BigInt:👂 heard
+  - `Array` u
+  - `Map` u
+  - `Set`  u
+  - `WeakMap` h
+  - `WeakSet` h
+  - Typed arrays
+  - Mixins k
+  - `Object.assign` h
+- Standard classes and namespaces
+  - `Proxy` h
+  - `RegExp` u
+  - `Date` u
+  - `Math` h
+  - `Reflect` h
+  - `Error`
+  - `Atomics` h
+  - `JSON` u
+  - `WeakRef`
+  - `FinalizationRegistry`
+  - `Intl`
+  - `Promise` u
+  - `console` u
+  - Timers h
 - Infrastructure
-  - V8:👂 heard
-  - Node.js: 🖐️ used
-  - npm: 🖐️ used
-  - prettier: 🖐️ used
-  - MDN: 🎓 known
+  - V8 u
+  - Node.js u
+  - npm  u
+  - prettier u
+  - MDN u
+  - TC39
