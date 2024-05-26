@@ -1,9 +1,9 @@
 ## Programming fundamental concepts
 
 - Concepts
-  - Model
-  - Modeling
-  - Subject domain
+  - Model k
+  - Modeling k
+  - Subject domain k
   - Algorithm: 🎓 known
   - Syntax: 🎓 known
   - Semantics: 🎓 known
@@ -12,17 +12,17 @@
   - Programm: 🎓 known
   - Programming paradigm: 🎓 known
   - Programming language: 🎓 known
-  - Contract
+  - Contract k
   - Module: 🎓 known
   - Library: 🎓 known
-  - Package
-  - Component
-  - Framework
-  - Platform
-  - Source code
+  - Package k
+  - Component k
+  - Framework k
+  - Platform k
+  - Source code k
   - Object code
   - Machine code: 🎓 known
-  - Microcode
+  - Microcode 
   - Software engineering: 🎓 known
   - Decomposition: 🖐️ used
   - Control flow
@@ -150,16 +150,16 @@
   - Polyfill
   - Interpreter
   - Linker
-  - Dynamic linking
-  - Static linking
+  - Dynamic linking k
+  - Static linking k
   - Runtime: 🖐️ used
   - Virtual machine: 🖐️ used
   - Register-based VM
   - Stack-based VM
-  - Containerization
+  - Containerization k
   - Debugger: 🖐️ used
-  - Tracing
-  - Garbage collection
+  - Tracing h
+  - Garbage collection k
   - Refactoring: 🙋 explained
   - Code review: 🙋 explained
   - Exception: 🖐️ used
@@ -167,13 +167,13 @@
   - git: 🖐️ used
   - Github: 🖐️ used
   - Docker: 🖐️ used
-  - Kubernetes
-  - GCC
-  - LLVM
+  - Kubernetes h
+  - GCC h
+  - LLVM h
 - Antipatterns
   - Magic numbers: 🙋 explained
   - Hard code: 🙋 explained
-  - Soft code
+  - Soft code k
   - Cryptic code
   - Improbability factor
   - Accidental complexity: 🙋 explained
@@ -185,16 +185,16 @@
   - Unreachable code: 🙋 explained
   - Duplicate code: 🙋 explained
   - Premature optimization
-  - Micro-optimization
-  - Nested loops
-  - Long method/function/procedure
+  - Micro-optimization k
+  - Nested loops k
+  - Long method/function/procedure k
   - Long inheritance
-  - Large class/file
-  - Too many parameters
-  - Pass-through parameters
+  - Large class/file k
+  - Too many parameters k
+  - Pass-through parameters k
   - Accumulate and fire
   - Use switch/case: 🖐️ used
-  - Temporary field
+  - Temporary field k
   - Handle object as instances and hashes at the same time
   - Use fields instead of arguments
   - Data clump
